@@ -5,7 +5,8 @@
 <a href="linkedin.com/in/charchit-khandelwal-6ab7aa108">
   <img align="left" alt="Charchit khandelwal" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
-<br />
+<br/>
+
 Hi i am Charchit Khandelwal a professional Software Developer-Web from india.Currently exploring server-side technologies and building applications with scalable and maintanable code.I like to build Web Applications and API Integrations.
 
 **Languages and Tools:**  
