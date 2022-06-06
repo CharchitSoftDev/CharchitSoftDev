@@ -1,5 +1,5 @@
 <h1 align="center"> Hi There I'm Charchit Khandelwal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👨‍💻</h1>
-<p align="center"> A Software Developer-Web from India </p>
+<p align="center"> A Software Engineer from India</p>
 <br/><br/>
 
 
@@ -11,7 +11,7 @@
 </a>
 <br/><br/><br>
 
-<p>Hi i am Charchit Khandelwal a professional Software Developer-Web from india.Currently exploring server-side technologies and building applications.I like to build Web Applications and API Integrations.<p>
+<p>Hi i am Charchit Khandelwal a professional Software Developer from india.Exploring server-side technologies and building applications.I like to build Web Applications and API Integrations.<p>
 
 **Languages and Tools:**  
 
