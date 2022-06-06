@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There I'm Charchit Khandelwal</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">👨‍💻
+<h1 align="center"> Hi There I'm Charchit Khandelwal 👨‍💻</h1> <img src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" height="40px">
 <p align="center"> A Software Engineer from India</p>
 <br/><br/>
 
@@ -11,7 +11,7 @@
 </a>
 <br/><br/><br>
 
-<p>Myself Charchit Khandelwal a professional Software Developer from india.Exploring server-side technologies and building applications.I like to build Web Applications and API Integrations.<p>
+<p>Myself Charchit Khandelwal a professional Software Developer from india.Exploring server-side technologies and building applications.Love to build Web Applications and API Integrations.<p>
 
 **Languages and Tools:**  
 
