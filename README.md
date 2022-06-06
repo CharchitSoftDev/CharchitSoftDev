@@ -11,7 +11,7 @@
 </a>
 <br/><br/><br>
 
-<p>Hi i am Charchit Khandelwal a professional Software Developer from india.Exploring server-side technologies and building applications.I like to build Web Applications and API Integrations.<p>
+<p>Myself Charchit Khandelwal a professional Software Developer from india.Exploring server-side technologies and building applications.I like to build Web Applications and API Integrations.<p>
 
 **Languages and Tools:**  
 
