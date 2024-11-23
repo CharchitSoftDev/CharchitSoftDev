@@ -6,8 +6,8 @@
 <a href="linkedin.com/in/charchit-khandelwal-6ab7aa108">
   <img align="left" alt="Charchit khandelwal" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/charchit44">
-  <img align="left" alt="Sadak-Chaap-Coder | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://x.com/charchit44">
+  <img align="left" alt="Sadak-Chaap-Coder | X" width="22px" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" />
 </a>
 <br/><br/><br>
 
